@@ -22,7 +22,7 @@ startSession
 
 ![Start window to set meta data and CSV file](Code/Imgs/StartWindow.JPG)
 
-![Session Window to evaluate the phases in the video](Code/Imgs/SessionWindow.JPG)
+![Session Window to evaluate the phases in the video](Code/Imgs/sessionWindow.JPG)
 
 ### Pre-Programmed Questions
 
