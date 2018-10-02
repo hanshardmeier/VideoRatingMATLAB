@@ -20,9 +20,9 @@ startSession
 
 ### Preview
 
-[Start window to set meta data and CSV file](Code/Imgs/startWindow.jpg)
+![Start window to set meta data and CSV file](Code/Imgs/startWindow.jpg)
 
-[Session Window to evaluate the phases in the video](Code/Imgs/sessionWindow.jpg)
+![Session Window to evaluate the phases in the video](Code/Imgs/sessionWindow.jpg)
 
 ### Pre-Programmed Questions
 
