@@ -3,7 +3,7 @@
 This is a small MATLAB project to help psychology students rate and evaluation videos according to specific criterias more efficiently.
 Results are store in a CSV file without headers using CSVWRITE in Matlab.
 
-This project was made originally for the master thesis of Manuela XXX and Julia Hardmeier in Psychology at the University of Zurich.
+This project was made originally for the master thesis of Manuela and Julia in General Psychology at the University of Zurich.
 
 ## Getting Started
 
