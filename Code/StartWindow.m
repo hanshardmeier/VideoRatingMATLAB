@@ -126,6 +126,10 @@ contents = cellstr(get(handles.edit_rater,'String'));
 listEntry = contents{get(handles.edit_rater,'Value')};
 window.SessionData.Rater = str2double(listEntry(1:1));
 
+if(not(7==exist('Reports','dir')))
+    mkdir('Reports');
+end
+
 outputPath =window.SessionData.GetOutputFilePath();
 csvwrite(outputPath,[]);
 SessionWindow_Open(window.SessionData)
