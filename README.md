@@ -5,6 +5,9 @@ Results are store in a CSV file without headers using CSVWRITE in Matlab.
 
 This project was made originally for the master thesis of Manuela and Julia in General Psychology at the University of Zurich.
 
+Note: This program was made within a few hours. There is a room for improvement. Like feel to fork.
+
+
 ## Getting Started
 
 You only need to download the project to your prefered folder and in MATLAB navigate to that folder and execute
@@ -33,3 +36,9 @@ startSession
 - Aktivierte Ressourcen
 - Problemtiefe
 - Arbeitsbeziehung
+
+
+### CSV Output Format
+
+RATER | PATIENTNUM | SITZUNGNUM | MINUTE |...
+QUESTION1 | Q2 | Q3 | ..... | Q17
